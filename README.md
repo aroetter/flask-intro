@@ -12,3 +12,5 @@ Make sure the DB exists (test.db), which you can do from a python3 command line:
 from app import db
 db.create_all()
 ```
+
+Also last few minutes of that video tell how to push to and host on heroku. Possibly useful later
